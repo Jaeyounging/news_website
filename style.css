@@ -1,0 +1,42 @@
+.head-line {
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 1em;
+}
+
+.menu-area {
+  margin-top: 1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-top: 1px solid #ebebeb;
+  border-bottom: 4px double black;
+}
+
+.menu-area button {
+  border: none;
+  background: none;
+  margin: 5px;
+}
+
+.menu-area button:hover {
+  background-color: #ebebeb;
+}
+
+.image-area {
+  max-width: 100%;
+  max-height: 250px;
+}
+
+.article-area {
+  border-bottom: 1px solid black;
+  margin: 1em;
+}
+
+.input-area {
+  margin-top: 1em;
+}
+
+.data-area {
+  margin-bottom: 1em;
+}
